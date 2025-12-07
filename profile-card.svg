@@ -1,0 +1,122 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Catppuccin Mocha Colors -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E1E2E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#181825;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#CBA6F7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#89B4FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#94E2D5;stop-opacity:1" />
+    </linearGradient>
+    
+    <style>
+      .card-bg { fill: url(#bg-gradient); }
+      .accent-line { fill: url(#accent-gradient); }
+      .title { fill: #CBA6F7; font-family: 'Segoe UI', Arial, sans-serif; font-size: 32px; font-weight: bold; }
+      .subtitle { fill: #CDD6F4; font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; }
+      .text { fill: #BAC2DE; font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; }
+      .label { fill: #A6ADC8; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 600; }
+      .stat-number { fill: #CBA6F7; font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: bold; }
+      .stat-label { fill: #BAC2DE; font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; }
+      
+      .icon-container { opacity: 0.8; }
+      .skill-badge { rx: 8; }
+      
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      
+      .animate-in {
+        animation: fadeIn 0.6s ease-out forwards;
+      }
+    </style>
+  </defs>
+  
+  <!-- Card Background -->
+  <rect class="card-bg" width="800" height="400" rx="15"/>
+  
+  <!-- Accent Line -->
+  <rect class="accent-line" x="0" y="0" width="800" height="4" rx="2"/>
+  
+  <!-- Main Content -->
+  <g class="animate-in">
+    <!-- Header Section -->
+    <text x="40" y="60" class="title">💀 Security Researcher</text>
+    <text x="40" y="90" class="subtitle">Breaking systems, building defenses</text>
+    
+    <!-- Decorative Icons -->
+    <g class="icon-container">
+      <circle cx="720" cy="60" r="30" fill="#CBA6F7" opacity="0.1"/>
+      <circle cx="750" cy="90" r="20" fill="#89B4FA" opacity="0.1"/>
+      <circle cx="680" cy="90" r="25" fill="#94E2D5" opacity="0.1"/>
+    </g>
+    
+    <!-- Stats Section -->
+    <g transform="translate(40, 140)">
+      <rect x="0" y="0" width="220" height="100" rx="10" fill="#313244" opacity="0.6"/>
+      <text x="110" y="40" class="stat-number" text-anchor="middle">50+</text>
+      <text x="110" y="60" class="stat-label" text-anchor="middle">Vulnerabilities</text>
+      <text x="110" y="80" class="text" text-anchor="middle">Discovered</text>
+    </g>
+    
+    <g transform="translate(290, 140)">
+      <rect x="0" y="0" width="220" height="100" rx="10" fill="#313244" opacity="0.6"/>
+      <text x="110" y="40" class="stat-number" text-anchor="middle">100+</text>
+      <text x="110" y="60" class="stat-label" text-anchor="middle">Machines</text>
+      <text x="110" y="80" class="text" text-anchor="middle">Pwned</text>
+    </g>
+    
+    <g transform="translate(540, 140)">
+      <rect x="0" y="0" width="220" height="100" rx="10" fill="#313244" opacity="0.6"/>
+      <text x="110" y="40" class="stat-number" text-anchor="middle">$10K+</text>
+      <text x="110" y="60" class="stat-label" text-anchor="middle">Bug Bounty</text>
+      <text x="110" y="80" class="text" text-anchor="middle">Earned</text>
+    </g>
+    
+    <!-- Skills Section -->
+    <text x="40" y="290" class="label">FAVORITE LANGUAGES</text>
+    
+    <!-- Skill Badges -->
+    <g transform="translate(40, 310)">
+      <rect class="skill-badge" x="0" y="0" width="70" height="30" fill="#CBA6F7" opacity="0.2"/>
+      <text x="35" y="20" class="text" text-anchor="middle">Python</text>
+    </g>
+    
+    <g transform="translate(125, 310)">
+      <rect class="skill-badge" x="0" y="0" width="50" height="30" fill="#89B4FA" opacity="0.2"/>
+      <text x="25" y="20" class="text" text-anchor="middle">C</text>
+    </g>
+    
+    <g transform="translate(190, 310)">
+      <rect class="skill-badge" x="0" y="0" width="50" height="30" fill="#94E2D5" opacity="0.2"/>
+      <text x="25" y="20" class="text" text-anchor="middle">C++</text>
+    </g>
+    
+    <g transform="translate(255, 310)">
+      <rect class="skill-badge" x="0" y="0" width="50" height="30" fill="#F38BA8" opacity="0.2"/>
+      <text x="25" y="20" class="text" text-anchor="middle">Go</text>
+    </g>
+    
+    <g transform="translate(320, 310)">
+      <rect class="skill-badge" x="0" y="0" width="50" height="30" fill="#FAB387" opacity="0.2"/>
+      <text x="25" y="20" class="text" text-anchor="middle">Rust</text>
+    </g>
+    
+    <g transform="translate(385, 310)">
+      <rect class="skill-badge" x="0" y="0" width="90" height="30" fill="#F9E2AF" opacity="0.2"/>
+      <text x="45" y="20" class="text" text-anchor="middle">JavaScript</text>
+    </g>
+    
+    <g transform="translate(490, 310)">
+      <rect class="skill-badge" x="0" y="0" width="60" height="30" fill="#A6E3A1" opacity="0.2"/>
+      <text x="30" y="20" class="text" text-anchor="middle">Bash</text>
+    </g>
+  </g>
+  
+  <!-- Footer -->
+  <text x="400" y="380" class="label" text-anchor="middle" opacity="0.6">🔥 Offensive Security 🔥</text>
+</svg>

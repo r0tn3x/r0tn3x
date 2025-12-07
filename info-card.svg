@@ -1,0 +1,105 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Catppuccin Mocha Colors -->
+    <linearGradient id="header-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#CBA6F7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#89B4FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#94E2D5;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E1E2E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#181825;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <style>
+      .card-background { fill: url(#card-bg); }
+      .header-bar { fill: url(#header-gradient); }
+      .main-title { fill: #CDD6F4; font-family: 'Segoe UI', Arial, sans-serif; font-size: 28px; font-weight: bold; }
+      .subtitle { fill: #BAC2DE; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; }
+      .label-text { fill: #A6ADC8; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; }
+      .value-text { fill: #CDD6F4; font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; }
+      .highlight { fill: #CBA6F7; font-weight: bold; }
+      
+      .circle-accent { fill: none; stroke-width: 2; }
+      .circle-1 { stroke: #CBA6F7; opacity: 0.3; }
+      .circle-2 { stroke: #89B4FA; opacity: 0.3; }
+      .circle-3 { stroke: #94E2D5; opacity: 0.3; }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.6; }
+      }
+      
+      .circle-accent {
+        animation: pulse 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Card Background -->
+  <rect class="card-background" width="600" height="200" rx="15"/>
+  
+  <!-- Header Bar -->
+  <rect class="header-bar" x="0" y="0" width="600" height="6" rx="15"/>
+  
+  <!-- Decorative Circles -->
+  <circle class="circle-accent circle-1" cx="520" cy="100" r="60"/>
+  <circle class="circle-accent circle-2" cx="540" cy="80" r="40"/>
+  <circle class="circle-accent circle-3" cx="560" cy="120" r="30"/>
+  
+  <!-- Main Content -->
+  <g transform="translate(30, 45)">
+    <!-- Title -->
+    <text x="0" y="0" class="main-title">💀 Red Team Operator</text>
+    <text x="0" y="25" class="subtitle">Breaking in to keep them out</text>
+    
+    <!-- Info Grid -->
+    <g transform="translate(0, 60)">
+      <!-- Column 1 -->
+      <g>
+        <text x="0" y="0" class="label-text">Location</text>
+        <text x="0" y="18" class="value-text">🌐 Cyberspace</text>
+      </g>
+      
+      <g transform="translate(0, 40)">
+        <text x="0" y="0" class="label-text">Experience</text>
+        <text x="0" y="18" class="value-text"><tspan class="highlight">5+</tspan> years</text>
+      </g>
+    </g>
+    
+    <!-- Column 2 -->
+    <g transform="translate(200, 60)">
+      <g>
+        <text x="0" y="0" class="label-text">Focus</text>
+        <text x="0" y="18" class="value-text">Pentesting & Red Team</text>
+      </g>
+      
+      <g transform="translate(0, 40)">
+        <text x="0" y="0" class="label-text">Status</text>
+        <text x="0" y="18" class="value-text">🔴 Elite Hacker</text>
+      </g>
+    </g>
+    
+    <!-- Column 3 -->
+    <g transform="translate(360, 60)">
+      <g>
+        <text x="0" y="0" class="label-text">CVEs</text>
+        <text x="0" y="18" class="value-text">🎯 <tspan class="highlight">10+</tspan> reported</text>
+      </g>
+      
+      <g transform="translate(0, 40)">
+        <text x="0" y="0" class="label-text">Theme</text>
+        <text x="0" y="18" class="value-text">🌙 Dark Mode</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E1E2E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#181825;stop-opacity:1" />
+    </linearGradient>
+    
+    <style>
+      .bg { fill: url(#bg); }
+      .title { fill: #CBA6F7; font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; font-weight: bold; }
+      .skill-name { fill: #CDD6F4; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; }
+      .percentage { fill: #BAC2DE; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; }
+      
+      .bar-bg { fill: #313244; }
+      .bar-fill { rx: 4; }
+      
+      .typescript { fill: #89B4FA; }
+      .javascript { fill: #F9E2AF; }
+      .python { fill: #CBA6F7; }
+      .rust { fill: #F38BA8; }
+      .go { fill: #94E2D5; }
+      .css { fill: #89DCEB; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect class="bg" width="400" height="300" rx="15"/>
+  
+  <!-- Header -->
+  <text x="20" y="35" class="title">⚡ Skills Proficiency</text>
+  
+  <!-- Skill Bars -->
+  <!-- Python -->
+  <g transform="translate(20, 60)">
+    <text x="0" y="0" class="skill-name">Python</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill typescript" x="0" y="8" width="333" height="20">
+      <animate attributeName="width" from="0" to="333" dur="1s" fill="freeze"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">92%</text>
+  </g>
+  
+  <!-- JavaScript -->
+  <g transform="translate(20, 100)">
+    <text x="0" y="0" class="skill-name">JavaScript</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill javascript" x="0" y="8" width="306" height="20">
+      <animate attributeName="width" from="0" to="306" dur="1s" fill="freeze" begin="0.1s"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">85%</text>
+  </g>
+  
+  <!-- C/C++ -->
+  <g transform="translate(20, 140)">
+    <text x="0" y="0" class="skill-name">C/C++</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill python" x="0" y="8" width="324" height="20">
+      <animate attributeName="width" from="0" to="324" dur="1s" fill="freeze" begin="0.2s"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">90%</text>
+  </g>
+  
+  <!-- Go -->
+  <g transform="translate(20, 180)">
+    <text x="0" y="0" class="skill-name">Go</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill rust" x="0" y="8" width="288" height="20">
+      <animate attributeName="width" from="0" to="288" dur="1s" fill="freeze" begin="0.3s"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">80%</text>
+  </g>
+  
+  <!-- Bash/Shell -->
+  <g transform="translate(20, 220)">
+    <text x="0" y="0" class="skill-name">Bash/Shell</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill go" x="0" y="8" width="313" height="20">
+      <animate attributeName="width" from="0" to="313" dur="1s" fill="freeze" begin="0.4s"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">87%</text>
+  </g>
+  
+  <!-- Assembly -->
+  <g transform="translate(20, 260)">
+    <text x="0" y="0" class="skill-name">Assembly</text>
+    <rect class="bar-bg" x="0" y="8" width="360" height="20" rx="4"/>
+    <rect class="bar-fill css" x="0" y="8" width="270" height="20">
+      <animate attributeName="width" from="0" to="270" dur="1s" fill="freeze" begin="0.5s"/>
+    </rect>
+    <text x="365" y="23" class="percentage" text-anchor="end">75%</text>
+  </g>
+</svg>
