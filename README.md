@@ -149,25 +149,9 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 ## 📊 GitHub Statistics
 
-<picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-latte&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha" alt="GitHub Streak" height="165" />
-</picture>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4)
 
 </div>
 
