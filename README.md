@@ -28,7 +28,7 @@ specialties:
   - Reverse Engineering
   - Binary Exploitation
   
-currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
+currently_researching: ["0-day Discovery", "Advanced Evasion", "AI Security", "Cloud Security"]
 
 ```
 
