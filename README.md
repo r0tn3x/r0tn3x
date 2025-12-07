@@ -3,7 +3,7 @@
 <!-- Red Team Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=150&section=header&text=💀%20Security%20Researcher&fontSize=50&fontColor=CBA6F7&animation=twinkling" width="100%">
 
-# 💀 Hello, I'm [Your Name]
+# 💀 Hello, I'm Dilanka Kaushal Hewage (r0tn3x)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Penetration+Tester;Exploit+Developer;Bug+Bounty+Hunter;Offensive+Security" alt="Typing SVG" />
 
@@ -18,20 +18,18 @@
 </div>
 
 ```yaml
-name: Your Name
-located_in: Your Location
+name: Dilanka Kaushal Hewage (r0tn3x)
+located_in: Germany
 current_job: Red Team Operator | Security Researcher
 certifications:
   - "OSCP | OSCE | OSEP"
   - "CEH | CRTP | CRTO"
   
 specialties:
-  - Penetration Testing
-  - Exploit Development
   - Red Team Operations
-  - Web Application Security
-  - Network Security
-  - Social Engineering
+  - Exploit Development
+  - Reverse Engineering
+  - Binary Exploitation
   
 currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 2025_goals:
@@ -136,38 +134,38 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4"
+    srcset="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_latte&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_latte&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="165" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin-latte&hide_border=true"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-latte&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin-mocha" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha" alt="GitHub Streak" height="165" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_latte&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_latte&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_mocha" alt="Top Languages" height="165" />
 </picture>
 
 </div>
@@ -180,14 +178,14 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 <picture>
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7"
+    srcset="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=7"
+    srcset="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=flat&no-frame=true&no-bg=true&row=1&column=7"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </picture>
 
 </div>
@@ -200,14 +198,14 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 <picture>
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=catppuccin-mocha&hide_border=true&bg_color=1E1E2E&color=CBA6F7&line=CBA6F7&point=F38BA8"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=r0tn3x&theme=catppuccin-mocha&hide_border=true&bg_color=1E1E2E&color=CBA6F7&line=CBA6F7&point=F38BA8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=catppuccin-latte&hide_border=true"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=r0tn3x&theme=catppuccin-latte&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=catppuccin-mocha" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0tn3x&theme=catppuccin-mocha" alt="Contribution Graph" width="100%" />
 </picture>
 
 </div>
@@ -218,11 +216,11 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 ## 🎯 Featured Projects
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 1" />
+<a href="https://github.com/r0tn3x/PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r0tn3x&repo=PROJECT_1&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 1" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 2" />
+<a href="https://github.com/r0tn3x/PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r0tn3x&repo=PROJECT_2&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 2" />
 </a>
 
 </div>
@@ -233,19 +231,19 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 ## 💬 Connect With Me
 
-<a href="https://twitter.com/YOUR_HANDLE">
+<a href="https://twitter.com/r0tn3x">
   <img src="https://img.shields.io/badge/Twitter-89DCEB?style=for-the-badge&logo=twitter&logoColor=1E1E2E" alt="Twitter" />
 </a>
-<a href="https://linkedin.com/in/YOUR_PROFILE">
+<a href="https://linkedin.com/in/r0tn3x">
   <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:r0tn3x@gmail.com">
   <img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Email" />
 </a>
-<a href="https://yourwebsite.com">
+<a href="https://r0tn3x.space">
   <img src="https://img.shields.io/badge/Website-CBA6F7?style=for-the-badge&logo=google-chrome&logoColor=1E1E2E" alt="Website" />
 </a>
-<a href="https://dev.to/YOUR_USERNAME">
+<a href="https://dev.to/r0tn3x">
   <img src="https://img.shields.io/badge/Dev.to-A6E3A1?style=for-the-badge&logo=dev.to&logoColor=1E1E2E" alt="Dev.to" />
 </a>
 
