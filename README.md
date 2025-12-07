@@ -22,8 +22,8 @@ name: Dilanka Kaushal Hewage (r0tn3x)
 located_in: Germany
 current_job: Red Team Operator | Security Researcher
 certifications:
-  - "OSCP | OSCE | OSEP"
-  - "CEH | CRTP | CRTO"
+  - "OSEE | CRTL | CRTO | OSCE"
+  - "OSED | CRTE | CRTP | OSCP+"
   
 specialties:
   - Red Team Operations
