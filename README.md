@@ -5,7 +5,7 @@
 
 # 💀 Hello, I'm Dilanka Kaushal Hewage (r0tn3x)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Penetration+Tester;Exploit+Developer;Bug+Bounty+Hunter;Offensive+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Penetration+Tester;Exploit+Developer;Offensive+Security" alt="Typing SVG" />
 
 </div>
 
