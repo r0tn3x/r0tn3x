@@ -3,7 +3,7 @@
 <!-- Red Team Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=150&section=header&text=💀%20Security%20Researcher&fontSize=50&fontColor=CBA6F7&animation=twinkling" width="100%">
 
-# 💀 Hello, I'm [Your Name]
+# 💀 Hello, I'm Dilanka Kaushal Hewage (r0tn3x)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Penetration+Tester;Exploit+Developer;Bug+Bounty+Hunter;Offensive+Security" alt="Typing SVG" />
 
@@ -18,12 +18,12 @@
 </div>
 
 ```yaml
-name: Your Name
-located_in: Your Location
+name: Dilanka Kaushal Hewage (r0tn3x)
+located_in: Germany
 current_job: Red Team Operator | Security Researcher
 certifications:
-  - "OSCP | OSCE | OSEP"
-  - "CEH | CRTP | CRTO"
+  - "OSEE | CRTL | CRTO | OSCE"
+  - "OSED | CRTE | CRTP | OSCP+"
   
 specialties:
   - Red Team Operations
@@ -237,10 +237,10 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 <a href="https://linkedin.com/in/r0tn3x">
   <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
 </a>
-<a href="mailto:r0tn3x@users.noreply.github.com">
+<a href="mailto:r0tn3x@gmail.com">
   <img src="https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Email" />
 </a>
-<a href="https://r0tn3x.github.io">
+<a href="https://r0tn3x.space">
   <img src="https://img.shields.io/badge/Website-CBA6F7?style=for-the-badge&logo=google-chrome&logoColor=1E1E2E" alt="Website" />
 </a>
 <a href="https://dev.to/r0tn3x">
