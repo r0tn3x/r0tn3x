@@ -29,11 +29,7 @@ specialties:
   - Binary Exploitation
   
 currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
-2025_goals:
-  - "Discover critical CVEs"
-  - "Master Active Directory attacks"
-  - "Contribute to offensive security tools"
-  - "Win bug bounties"
+
 ```
 
 ---
