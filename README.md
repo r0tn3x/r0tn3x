@@ -133,16 +133,6 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 ## 📊 GitHub Statistics
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_latte&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=r0tn3x&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" height="165" />
-</picture>
 
 <picture>
   <source
@@ -156,17 +146,6 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha" alt="GitHub Streak" height="165" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_latte&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0tn3x&layout=compact&theme=catppuccin_mocha" alt="Top Languages" height="165" />
-</picture>
 
 </div>
 
