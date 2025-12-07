@@ -102,6 +102,26 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
   <img alt="Git" src="https://img.shields.io/badge/Git-F38BA8?style=for-the-badge&logo=git&logoColor=1E1E2E">
 </picture>
 
+<!-- Reverse Engineering & Analysis Tools -->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IDA_Pro-F38BA8?style=for-the-badge&logo=hack-the-box&logoColor=1E1E2E">
+  <img alt="IDA Pro" src="https://img.shields.io/badge/IDA_Pro-F38BA8?style=for-the-badge&logo=hack-the-box&logoColor=1E1E2E">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Ghidra-CBA6F7?style=for-the-badge&logo=security&logoColor=1E1E2E">
+  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-CBA6F7?style=for-the-badge&logo=security&logoColor=1E1E2E">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Binary_Ninja-89B4FA?style=for-the-badge&logo=nintendo-switch&logoColor=1E1E2E">
+  <img alt="Binary Ninja" src="https://img.shields.io/badge/Binary_Ninja-89B4FA?style=for-the-badge&logo=nintendo-switch&logoColor=1E1E2E">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Cobalt_Strike-FAB387?style=for-the-badge&logo=target&logoColor=1E1E2E">
+  <img alt="Cobalt Strike" src="https://img.shields.io/badge/Cobalt_Strike-FAB387?style=for-the-badge&logo=target&logoColor=1E1E2E">
+</picture>
+
+
 <!-- Operating Systems -->
 <br>
 <picture>
