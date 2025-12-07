@@ -190,21 +190,6 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 
 <div align="center">
 
-## 🎯 Featured Projects
-
-<a href="https://github.com/r0tn3x/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r0tn3x&repo=PROJECT_1&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 1" />
-</a>
-<a href="https://github.com/r0tn3x/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r0tn3x&repo=PROJECT_2&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=CBA6F7&text_color=CDD6F4" alt="Project 2" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 💬 Connect With Me
 
 <a href="https://twitter.com/r0tn3x">
