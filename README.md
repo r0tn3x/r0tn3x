@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Red Team Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=150&section=header&text=💀%20Security%20Researcher&fontSize=50&fontColor=CBA6F7&animation=twinkling" width="100%">
-
 # 💀 Hello, I'm Dilanka Kaushal Hewage (r0tn3x)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Penetration+Tester;Exploit+Developer;Offensive+Security" alt="Typing SVG" />
@@ -241,8 +238,6 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "Cloud Security"]
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=100&section=footer&text=Stay%20Anonymous%20💀&fontSize=20&fontColor=F38BA8&animation=twinkling" width="100%" />
 
 <sub>🔥 Hack the Planet 🔥</sub>
 
