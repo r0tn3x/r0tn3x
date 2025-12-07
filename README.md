@@ -16,7 +16,7 @@
 
 ```yaml
 name: Dilanka Kaushal Hewage (r0tn3x)
-located_in: Germany
+located_in: DE
 current_job: Red Team Operator | Security Researcher
 certifications:
   - "OSEE | CRTL | CRTO | OSCE"
