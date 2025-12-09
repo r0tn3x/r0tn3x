@@ -143,47 +143,6 @@ currently_researching: ["0-day Discovery", "Advanced Evasion", "AI Security", "C
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0tn3x&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7" alt="GitHub Streak" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=flat&no-frame=true&no-bg=true&row=1&column=7"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=r0tn3x&theme=catppuccin_mocha&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</picture>
-
-</div>
-
-
----
-
-<div align="center">
-
 ## 📈 Contribution Activity
 
 <picture>
