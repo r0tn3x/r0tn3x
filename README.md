@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Exploit+Developer;Malware+Developer" alt="Typing SVG" />
 
-**Red Team Operator @ Dubai Health Authority** | **MSc Cybersecurity**
+**Red Team Operator** | **Phd Student**
 
 [![Twitter](https://img.shields.io/badge/Twitter-89DCEB?style=for-the-badge&logo=twitter&logoColor=1E1E2E)](https://twitter.com/r0tn3x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/dilanka-kaushal-hewage)
