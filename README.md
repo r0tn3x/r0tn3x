@@ -47,7 +47,7 @@ Research:       AI Security | Adversarial ML | Automated Vuln Discovery | LLM Re
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-F38BA8?style=for-the-badge&logo=kalilinux&logoColor=1E1E2E)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-89DCEB?style=for-the-badge&logo=archlinux&logoColor=1E1E2E)
-![Docker](https://img.shields.io/badge/Docker-94E2D5?style=for-the-badge&logo=docker&logoColor=1E1E2E)
+
 
 </div>
 
