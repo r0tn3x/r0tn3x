@@ -7,7 +7,7 @@
 **Red Team Operator** | **Phd Student**
 
 [![Twitter](https://img.shields.io/badge/Twitter-89DCEB?style=for-the-badge&logo=twitter&logoColor=1E1E2E)](https://twitter.com/r0tn3x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/dilanka-kaushal-hewage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/r0tn3x)
 [![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E)](mailto:r0tn3x@gmail.com)
 [![Website](https://img.shields.io/badge/Website-CBA6F7?style=for-the-badge&logo=google-chrome&logoColor=1E1E2E)](https://r0tn3x.space)
 
